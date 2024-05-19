@@ -7,10 +7,10 @@ module.exports = {
     localhost: {
       url: 'http://127.0.0.1:8545',
     },
-    bitfinity: {
+    sepolia: {
       url: 'https://testnet.bitfinity.network',
-      accounts: [''],
-      chainId: 355113,
+      accounts: [],
+      chainId: 115511,
     },
   },
   solidity: {
